@@ -10,8 +10,7 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I am a passionate Flutter developer building smooth, modern UI experiences.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a passionate Flutter developer building smooth, modern UI experiences.
 - 📝 I regularly practice problem-solving and UI improvements to write cleaner, smarter Flutter code.
 - 💻 I use daily: 🚀 Flutter • 💡 Dart • 🧠 Git • 🖥️ Android Studio • 📱 Android Emulator • 🔥 Firebase • 🎨 Figma.
 - 💬 Talk to me about 🚀 Flutter development 🎮 PC gaming & 🏏 cricket.
@@ -37,8 +36,7 @@
 
 
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
+
 ## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Projects by [AnasXCode](https://github.com/AnasXCode)
 
 <p align="center">
