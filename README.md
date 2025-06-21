@@ -12,17 +12,8 @@
 - 📝 I regularly practice problem-solving and UI improvements to write cleaner, smarter Flutter code.
 - 💻 I use daily: 🚀 Flutter • 💡 Dart • 🧠 Git • 🖥️ Android Studio • 📱 Android Emulator • 🔥 Firebase • 🎨 Figma.
 - 💬 Talk to me about 🚀 Flutter development 🎮 PC gaming & 🏏 cricket.
-- 👯 We can connect to play some  pc games.
+- 👯 We can connect to play some pc games.
 - ⚡ Fun fact: Silent, but always observing.
-
----
-
-### 📄 My Resume:
-<p align="center">
-  <a href="https://github.com/AnasXCode/AnasXCode/raw/main/AnasXCode_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="resume" />
-  </a>
-</p>
 
 ---
 
@@ -73,9 +64,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-
-
-
-
-
